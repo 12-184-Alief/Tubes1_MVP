@@ -142,9 +142,9 @@ Room for improvement:
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-- [Maulvi Ziadinda Maulana](https://www.github.com/maulvi-zm)
-- [Satriadhikara Panji Yudhistira](https://www.github.com/satriadhikara)
-- [Valentino Chryslie Triadi](https://www.github.com/valentinotriadi)
+- [Habbi Widagdo]()
+- [Martino Kelvin]()
+- [Mohd.Musyaffa Alief Athallah](https://github.com/12-184-Alief)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
